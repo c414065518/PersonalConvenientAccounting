@@ -1,2 +1,2 @@
 # PersonalConvenientAccounting
-个人便捷记账软件
+Android个人便捷记账软件
